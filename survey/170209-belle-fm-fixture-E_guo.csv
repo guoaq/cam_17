@@ -1,0 +1,113 @@
+Feature Name;Property Name;Actual;Nominal;Deviation;Lower Tolerance;Upper Tolerance
+Plane 1;Point on a plane.x;4.523;;;-0.05;0.05
+Plane 1;Point on a plane.y;217.476;;;-0.05;0.05
+Plane 1;Point on a plane.z;-46.65;;;-0.05;0.05
+Plane 1;Flatness ;0.299;0;0.299;0;0.05
+Point 1;Center.x;15.681;;;-0.05;0.05
+Point 1;Center.y;206.15;;;-0.05;0.05
+Point 1;Center.z;-7.908;;;-0.05;0.05
+Point 1;3D Distance;;;;;
+2D Line(2) 1;Midpoint.x;-8.403;;;-0.05;0.05
+2D Line(2) 1;Midpoint.y;232.302;;;-0.05;0.05
+2D Line(2) 1;Midpoint.z;-90.851;;;-0.05;0.05
+2D Line(2) 1;Straightness ;0;0;0;0;0.05
+Plane 2;Point on a plane.x;-15.338;;;-0.05;0.05
+Plane 2;Point on a plane.y;15.063;;;-0.05;0.05
+Plane 2;Point on a plane.z;0;;;-0.05;0.05
+Plane 2;Flatness ;0.097;0;0.097;0;0.05
+Point 2;Center.x;-119.561;;;-0.05;0.05
+Point 2;Center.y;223.405;;;-0.05;0.05
+Point 2;Center.z;-60.008;;;-0.05;0.05
+Point 2;3D Distance;;;;;
+Point 3;Center.x;-100.286;;;-0.05;0.05
+Point 3;Center.y;215.715;;;-0.05;0.05
+Point 3;Center.z;-36.64;;;-0.05;0.05
+Point 3;3D Distance;;;;;
+Point 4;Center.x;-75.284;;;-0.05;0.05
+Point 4;Center.y;209.79;;;-0.05;0.05
+Point 4;Center.z;-18.673;;;-0.05;0.05
+Point 4;3D Distance;;;;;
+Point 5;Center.x;-46.315;;;-0.05;0.05
+Point 5;Center.y;205.935;;;-0.05;0.05
+Point 5;Center.z;-7.632;;;-0.05;0.05
+Point 5;3D Distance;;;;;
+Point 6;Center.x;-15.303;;;-0.05;0.05
+Point 6;Center.y;204.829;;;-0.05;0.05
+Point 6;Center.z;-3.879;;;-0.05;0.05
+Point 6;3D Distance;;;;;
+Point 7;Center.x;15.642;;;-0.05;0.05
+Point 7;Center.y;206.146;;;-0.05;0.05
+Point 7;Center.z;-7.949;;;-0.05;0.05
+Point 7;3D Distance;;;;;
+Point 8;Center.x;44.367;;;-0.05;0.05
+Point 8;Center.y;209.797;;;-0.05;0.05
+Point 8;Center.z;-19.556;;;-0.05;0.05
+Point 8;3D Distance;;;;;
+Point 9;Center.x;68.97;;;-0.05;0.05
+Point 9;Center.y;215.833;;;-0.05;0.05
+Point 9;Center.z;-37.797;;;-0.05;0.05
+Point 9;3D Distance;;;;;
+Point 10;Center.x;87.829;;;-0.05;0.05
+Point 10;Center.y;223.939;;;-0.05;0.05
+Point 10;Center.z;-61.343;;;-0.05;0.05
+Point 10;3D Distance;;;;;
+Point 11;Center.x;99.57;;;-0.05;0.05
+Point 11;Center.y;233.122;;;-0.05;0.05
+Point 11;Center.z;-88.697;;;-0.05;0.05
+Point 11;3D Distance;;;;;
+Point 12;Center.x;103.466;;;-0.05;0.05
+Point 12;Center.y;242.948;;;-0.05;0.05
+Point 12;Center.z;-118.117;;;-0.05;0.05
+Point 12;3D Distance;;;;;
+2D Line(2) 2;Midpoint.x;12.746;;;-0.05;0.05
+2D Line(2) 2;Midpoint.y;48.147;;;-0.05;0.05
+2D Line(2) 2;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 2;Straightness ;0.057;0;0.057;0;0.05
+2D Line(2) 3;Midpoint.x;9.555;;;-0.05;0.05
+2D Line(2) 3;Midpoint.y;55.147;;;-0.05;0.05
+2D Line(2) 3;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 3;Straightness ;0.337;0;0.337;0;0.05
+2D Line(2) 4;Midpoint.x;-39.221;;;-0.05;0.05
+2D Line(2) 4;Midpoint.y;55.246;;;-0.05;0.05
+2D Line(2) 4;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 4;Straightness ;0.044;0;0.044;0;0.05
+2D Line(2) 5;Midpoint.x;-43.435;;;-0.05;0.05
+2D Line(2) 5;Midpoint.y;47.611;;;-0.05;0.05
+2D Line(2) 5;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 5;Straightness ;0.035;0;0.035;0;0.05
+2D Line(2) 6;Midpoint.x;-30.41;;;-0.05;0.05
+2D Line(2) 6;Midpoint.y;9.103;;;-0.05;0.05
+2D Line(2) 6;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 6;Straightness ;0.04;0;0.04;0;0.05
+2D Line(2) 7;Midpoint.x;-15.461;;;-0.05;0.05
+2D Line(2) 7;Midpoint.y;0;;;-0.05;0.05
+2D Line(2) 7;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 7;Straightness ;0.224;0;0.224;0;0.05
+2D Line(2) 8;Midpoint.x;-0.086;;;-0.05;0.05
+2D Line(2) 8;Midpoint.y;12.302;;;-0.05;0.05
+2D Line(2) 8;Midpoint.z;0;;;-0.05;0.05
+2D Line(2) 8;Straightness ;0.1;0;0.1;0;0.05
+2D Line(2) 9;Midpoint.x;;;;-0.05;0.05
+2D Line(2) 9;Midpoint.y;;;;-0.05;0.05
+2D Line(2) 9;Midpoint.z;;;;-0.05;0.05
+2D Line(2) 9;Straightness ;;;;0;0.05
+2D Line(2) 10;Midpoint.x;;;;-0.05;0.05
+2D Line(2) 10;Midpoint.y;;;;-0.05;0.05
+2D Line(2) 10;Midpoint.z;;;;-0.05;0.05
+2D Line(2) 10;Straightness ;;;;0;0.05
+Point 13;Center.x;12.785;;;-0.05;0.05
+Point 13;Center.y;55.229;;;-0.05;0.05
+Point 13;Center.z;0;;;-0.05;0.05
+Point 13;3D Distance;;;;;
+Point 14;Center.x;-43.551;;;-0.05;0.05
+Point 14;Center.y;55.215;;;-0.05;0.05
+Point 14;Center.z;0;;;-0.05;0.05
+Point 14;3D Distance;;;;;
+Point 15;Center.x;-30.331;;;-0.05;0.05
+Point 15;Center.y;0;;;-0.05;0.05
+Point 15;Center.z;0;;;-0.05;0.05
+Point 15;3D Distance;;;;;
+Point 16;Center.x;0;;;-0.05;0.05
+Point 16;Center.y;0;;;-0.05;0.05
+Point 16;Center.z;0;;;-0.05;0.05
+Point 16;3D Distance;;;;;

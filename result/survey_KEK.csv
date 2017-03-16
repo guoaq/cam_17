@@ -1,0 +1,65 @@
+,Feature Name,Property Name,Actual,Nominal,Deviation,Lower Tolerance,Upper Tolerance
+0,Point 1,Center.x,15.681,,,-0.05,0.05
+1,Point 1,Center.y,206.15,,,-0.05,0.05
+2,Point 1,Center.z,-7.908,,,-0.05,0.05
+3,Point 1,3D Distance,,,,,
+4,Point 2,Center.x,-119.561,,,-0.05,0.05
+5,Point 2,Center.y,223.405,,,-0.05,0.05
+6,Point 2,Center.z,-60.008,,,-0.05,0.05
+7,Point 2,3D Distance,,,,,
+8,Point 3,Center.x,-100.286,,,-0.05,0.05
+9,Point 3,Center.y,215.715,,,-0.05,0.05
+10,Point 3,Center.z,-36.64,,,-0.05,0.05
+11,Point 3,3D Distance,,,,,
+12,Point 4,Center.x,-75.284,,,-0.05,0.05
+13,Point 4,Center.y,209.79,,,-0.05,0.05
+14,Point 4,Center.z,-18.673,,,-0.05,0.05
+15,Point 4,3D Distance,,,,,
+16,Point 5,Center.x,-46.315,,,-0.05,0.05
+17,Point 5,Center.y,205.935,,,-0.05,0.05
+18,Point 5,Center.z,-7.632,,,-0.05,0.05
+19,Point 5,3D Distance,,,,,
+20,Point 6,Center.x,-15.303,,,-0.05,0.05
+21,Point 6,Center.y,204.829,,,-0.05,0.05
+22,Point 6,Center.z,-3.879,,,-0.05,0.05
+23,Point 6,3D Distance,,,,,
+24,Point 7,Center.x,15.642,,,-0.05,0.05
+25,Point 7,Center.y,206.146,,,-0.05,0.05
+26,Point 7,Center.z,-7.949,,,-0.05,0.05
+27,Point 7,3D Distance,,,,,
+28,Point 8,Center.x,44.367,,,-0.05,0.05
+29,Point 8,Center.y,209.797,,,-0.05,0.05
+30,Point 8,Center.z,-19.556,,,-0.05,0.05
+31,Point 8,3D Distance,,,,,
+32,Point 9,Center.x,68.97,,,-0.05,0.05
+33,Point 9,Center.y,215.833,,,-0.05,0.05
+34,Point 9,Center.z,-37.797,,,-0.05,0.05
+35,Point 9,3D Distance,,,,,
+36,Point 10,Center.x,87.829,,,-0.05,0.05
+37,Point 10,Center.y,223.939,,,-0.05,0.05
+38,Point 10,Center.z,-61.343,,,-0.05,0.05
+39,Point 10,3D Distance,,,,,
+40,Point 11,Center.x,99.57,,,-0.05,0.05
+41,Point 11,Center.y,233.122,,,-0.05,0.05
+42,Point 11,Center.z,-88.697,,,-0.05,0.05
+43,Point 11,3D Distance,,,,,
+44,Point 12,Center.x,103.466,,,-0.05,0.05
+45,Point 12,Center.y,242.948,,,-0.05,0.05
+46,Point 12,Center.z,-118.117,,,-0.05,0.05
+47,Point 12,3D Distance,,,,,
+48,Point 13,Center.x,12.785,,,-0.05,0.05
+49,Point 13,Center.y,55.229,,,-0.05,0.05
+50,Point 13,Center.z,0.0,,,-0.05,0.05
+51,Point 13,3D Distance,,,,,
+52,Point 14,Center.x,-43.551,,,-0.05,0.05
+53,Point 14,Center.y,55.215,,,-0.05,0.05
+54,Point 14,Center.z,0.0,,,-0.05,0.05
+55,Point 14,3D Distance,,,,,
+56,Point 15,Center.x,-30.331,,,-0.05,0.05
+57,Point 15,Center.y,0.0,,,-0.05,0.05
+58,Point 15,Center.z,0.0,,,-0.05,0.05
+59,Point 15,3D Distance,,,,,
+60,Point 16,Center.x,0.0,,,-0.05,0.05
+61,Point 16,Center.y,0.0,,,-0.05,0.05
+62,Point 16,Center.z,0.0,,,-0.05,0.05
+63,Point 16,3D Distance,,,,,
